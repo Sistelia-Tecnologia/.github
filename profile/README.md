@@ -9,9 +9,11 @@ escrever a primeira linha.
 
 | Produto | Segmento | Demo |
 |---|---|---|
-| [FlexFinance](./flexfinance) | Gestão empresarial | [Ver demo](#) |
-| [ControlEdu](./controledu) | Gestão escolar | [Ver demo](#) |
-| [FlexFood](./flexfood) | Food service | [Ver demo](#) |
+| [GiroPronto](https://github.com/Sistelia-Tecnologia/giropronto) | Financeiro e fluxo de caixa | [Ver demo](#) |
+| [ControlEDU](https://github.com/Sistelia-Tecnologia/controledu) | Gestão escolar completa | [Ver demo](#) |
+| [BasePedido](https://github.com/Sistelia-Tecnologia/basepedido) | Estoque e gestão de pedidos | [Ver demo](#) |
+| [FlexiUni](https://github.com/Sistelia-Tecnologia/flexiuni) | Demo SaaS multi-tenant | [Ver demo](#) |
+
 
 ## 🔧 Também desenvolvemos sob medida
 ERPs, CRMs, automações com n8n, APIs, apps mobile e integrações.
