@@ -11,7 +11,7 @@ Não somos uma fábrica de código — entendemos o problema antes de escrever a
 | [BasePedido](https://github.com/Sistelia-Tecnologia/basepedido) | Estoque e gestão de pedidos |  [Ver demo](https://github.com/Sistelia-Tecnologia/basepedido) |
 | [GiroPronto](https://github.com/Sistelia-Tecnologia/giropronto) | Financeiro e fluxo de caixa |  [Ver demo](https://github.com/Sistelia-Tecnologia/giropronto) |
 | [ControlEDU](https://github.com/Sistelia-Tecnologia/controledu-demo) | Gestão escolar completa |  [Ver demo](https://github.com/Sistelia-Tecnologia/controledu-demo) |
-| [MedGesto](https://github.com/Sistelia-Tecnologia/medgesto) | Gestão de clinicas e consultórios |  [Ver demo](https://github.com/Sistelia-Tecnologia/medgesto) |
+| [MedGesto](https://github.com/Sistelia-Tecnologia/medgesto) | SaaS de Gestão de Clinicas e Consultórios |  [Mais Detalhes](https://github.com/Sistelia-Tecnologia/medgesto) |
 | [FlexiUni](https://github.com/Sistelia-Tecnologia/flexiuni) | Demo SaaS multi-tenant |  [Ver demo](https://github.com/Sistelia-Tecnologia/flexiuni) |
 
 ## 🔧 Também desenvolvemos sob medida
